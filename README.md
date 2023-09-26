@@ -149,6 +149,6 @@ The API provides the following endpoints for locating places in the Philippines:
 ## Author
 **Kurt Russelle Marmol**
 
-GitHub: [@jkrmarmol](github.com/jkrmarmol)
+GitHub: [@jkrmarmol](https://github.com/jkrmarmol)
 
 LinkedIn: [@jkrmarmol](https://www.linkedin.com/in/jkrmarmol/)
